@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Mikael Eriksson
 - 👀 Fullstack Development
-- 🌱 Next.js
+- React, PostgreSQL, Express, tailwind.CSS
 
